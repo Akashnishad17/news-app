@@ -20,8 +20,7 @@ export default class News extends Component {
     }
 
     fetchData = async() => {
-        this.state.loading = true;
-        this.setState({articles: []});
+        this.setState({articles: [], loading: false});
 
         // const url = `https://newsapi.org/v2/top-headlines?country=in&apiKey=2e6ee77231d4402e94b1adbc174d9c6c&page=${this.state.page}&pageSize=${this.state.pageSize}`;
         // const result = await fetch(url);
