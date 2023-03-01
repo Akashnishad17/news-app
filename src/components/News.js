@@ -9,6 +9,7 @@ import sports from '../data/sports.json';
 import technology from '../data/technology.json';
 import Spinner from './Spinner';
 import PropTypes from 'prop-types';
+import InfiniteScroll from 'react-infinite-scroll-component';
 
 export default class News extends Component {
     static defaultProps = {
@@ -24,50 +25,29 @@ export default class News extends Component {
     }
 
     constructor(props) {
-        super();
+        super(props);
         
         switch(props.category){
             case 'business':
-                this.data = {
-                    articles: business.articles, 
-                    totalPages: Math.ceil(parseInt(business.totalResults) / props.pageSize)
-                };
+                this.data = business;
             break;
             case 'entertainment':
-                this.data = {
-                    articles: entertainment.articles,
-                    totalPages: Math.ceil(parseInt(entertainment.totalResults) / props.pageSize)
-                };
+                this.data = entertainment;
             break;
             case 'general':
-                this.data = {
-                    articles: general.articles,
-                    totalPages: Math.ceil(parseInt(general.totalResults) / props.pageSize)
-                };
+                this.data = general;
             break;
             case 'health':
-                this.data = {
-                    articles: health.articles,
-                    totalPages: Math.ceil(parseInt(health.totalResults) / props.pageSize)
-                };
+                this.data = health;
             break;
             case 'science':
-                this.data = {
-                    articles: science.articles,
-                    totalPages: Math.ceil(parseInt(science.totalResults) / props.pageSize)
-                };
+                this.data = science;
             break;
             case 'sports':
-                this.data = {
-                    articles: sports.articles,
-                    totalPages: Math.ceil(parseInt(sports.totalResults) / props.pageSize)
-                };
+                this.data = sports;
             break;
             case 'technology':
-                this.data = {
-                    articles: technology.articles,
-                    totalPages: Math.ceil(parseInt(technology.totalResults) / props.pageSize)
-                };
+                this.data =  technology;
             break;
             default:
             break;
@@ -75,8 +55,9 @@ export default class News extends Component {
 
         this.state = {
             articles: [],
-            loading: true,
-            page: 1
+            page: 1,
+            totalResults: 0,
+            loading: true
         }
 
         document.title = `NewsHub - ${this.capitalize(props.category)}`;
@@ -89,53 +70,51 @@ export default class News extends Component {
     }
 
     fetchData = async() => {
-        this.setState({articles: [], loading: true});
-
         // const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=2e6ee77231d4402e94b1adbc174d9c6c&page=${this.state.page}&pageSize=${this.props.pageSize}`;
         // const result = await fetch(url);
         // const parsedResult = await result.json();
         // this.setState({
-        //     articles: parsedResult.articles, 
-        //     loading: false,
-        //     totalPages: Math.ceil(parseInt(parsedResult.totalResults) / this.props.pageSize)
+        //     articles: this.state.articles.concat(parsedResult.articles),
+        //     totalResults: parsedResult.totalResults,
+        //     loading: false
         // });
 
         setTimeout(() => {
             this.setState({
-                articles: this.data.articles.slice(
-                    (this.state.page - 1) * this.props.pageSize, this.state.page * this.props.pageSize), 
-                loading: false, totalPages: 
-                this.data.totalPages});
-        }, 1000);
+                articles: this.state.articles.concat(this.data.articles.slice(
+                    (this.state.page - 1) * this.props.pageSize, this.state.page * this.props.pageSize)), 
+                totalResults: this.data.totalResults,
+                loading: false
+            });
+        }, 1500);
     }
 
-    handlePreviousClick = () => {
-        this.setState({page: this.state.page - 1});
-        this.fetchData();
-    }
-
-    handleNextClick = () => {
+    fetehMoreData = () => {
         this.setState({page: this.state.page + 1});
         this.fetchData();
     }
 
     render() {
         return (
-            <div className="container my-3">
-                <h1 className="text-center">NewsHub - Top {this.capitalize(this.props.category)} Headlines</h1>
+            <>
+                <h1 className="text-center my-3">NewsHub - Top {this.capitalize(this.props.category)} Headlines</h1>
                 {this.state.loading && <Spinner />}
-                <div className="row">
-                    {this.state.articles.map((el) => {
-                        return <div className="col-md-4" key={el.url}>
-                            <NewsItem title={el.title ? el.title.slice(0, 45) : ""} description={el.description ? el.description.slice(0, 88) : ""} imageUrl={el.urlToImage} newsUrl={el.url} author={el.author} date={el.publishedAt} source={el.source.name} />
+                <InfiniteScroll
+                dataLength={this.state.articles.length}
+                next={this.fetehMoreData}
+                hasMore={this.state.articles.length !== this.state.totalResults}
+                loader={<Spinner />}>
+                    <div className="container">
+                        <div className="row">
+                            {this.state.articles.map((el) => {
+                                return <div className="col-md-4" key={el.url}>
+                                    <NewsItem title={el.title ? el.title.slice(0, 45) : ""} description={el.description ? el.description.slice(0, 88) : ""} imageUrl={el.urlToImage} newsUrl={el.url} author={el.author} date={el.publishedAt} source={el.source.name} />
+                                </div>
+                            })}
                         </div>
-                    })}
-                </div>
-                <div className="container d-flex justify-content-between">
-                    <button disabled={this.state.loading || this.state.page <= 1} type="button" className="btn btn-dark" onClick={this.handlePreviousClick}>&larr; Previous</button>
-                    <button disabled={this.state.loading || this.state.page >= this.state.totalPages} type="button" className="btn btn-dark" onClick={this.handleNextClick}>Next &rarr;</button>
-                </div>
-            </div>
+                    </div>
+                </InfiniteScroll>
+            </>
         )
     }
 }
