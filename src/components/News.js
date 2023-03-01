@@ -57,7 +57,8 @@ export default class News extends Component {
             articles: [],
             page: 1,
             totalResults: 0,
-            loading: true
+            loading: true,
+            global: false
         }
 
         document.title = `NewsHub - ${this.capitalize(props.category)}`;
@@ -72,30 +73,32 @@ export default class News extends Component {
     fetchData = async() => {
         this.props.setProgress(10);
 
-        // const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=2e6ee77231d4402e94b1adbc174d9c6c&page=${this.state.page}&pageSize=${this.props.pageSize}`;
-        // const result = await fetch(url);
-        // this.props.setProgress(30);
-        // const parsedResult = await result.json();
-        // this.props.setProgress(70);
-        // this.setState({
-        //     articles: this.state.articles.concat(parsedResult.articles),
-        //     totalResults: parsedResult.totalResults,
-        //     loading: false
-        // });
-        // this.props.setProgress(100);
-
-        setTimeout(() => {
+        if(this.state.global) {
+            const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+            const result = await fetch(url);
+            this.props.setProgress(30);
+            const parsedResult = await result.json();
+            this.props.setProgress(70);
             this.setState({
-                articles: this.state.articles.concat(this.data.articles.slice(
-                    (this.state.page - 1) * this.props.pageSize, this.state.page * this.props.pageSize)), 
-                totalResults: this.data.totalResults,
+                articles: this.state.articles.concat(parsedResult.articles),
+                totalResults: parsedResult.totalResults,
                 loading: false
             });
             this.props.setProgress(100);
-        }, 1500);
-        setTimeout(() => {
-            this.props.setProgress(30);
-        }, 500);
+        } else {
+            setTimeout(() => {
+                this.setState({
+                    articles: this.state.articles.concat(this.data.articles.slice(
+                        (this.state.page - 1) * this.props.pageSize, this.state.page * this.props.pageSize)), 
+                    totalResults: this.data.totalResults,
+                    loading: false
+                });
+                this.props.setProgress(100);
+            }, 1500);
+            setTimeout(() => {
+                this.props.setProgress(30);
+            }, 500);
+        }
     }
 
     fetehMoreData = () => {
