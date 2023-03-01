@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Statesman",
+            "title": "Current air pollution standards tied to higher heart risks: Study - The Statesman",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnRoZXN0YXRlc21hbi5jb20vZW52aXJvbm1lbnQvY3VycmVudC1haXItcG9sbHV0aW9uLXN0YW5kYXJkcy10aWVkLXRvLWhpZ2hlci1oZWFydC1yaXNrcy1zdHVkeS0xNTAzMTU4MDc0Lmh0bWzSAX1odHRwczovL3d3dy50aGVzdGF0ZXNtYW4uY29tL2Vudmlyb25tZW50L2N1cnJlbnQtYWlyLXBvbGx1dGlvbi1zdGFuZGFyZHMtdGllZC10by1oaWdoZXItaGVhcnQtcmlza3Mtc3R1ZHktMTUwMzE1ODA3NC5odG1sL2FtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T08:17:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "India Today",
+            "title": "Study reveals artificial sweeteners could increase risk of heart attack, stroke - India Today",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2hlYWx0aC9zdG9yeS9zdHVkeS1yZXZlYWxzLWFydGlmaWNpYWwtc3dlZXRlbmVycy1jb3VsZC1pbmNyZWFzZS1yaXNrLW9mLWhlYXJ0LWF0dGFjay1zdHJva2UtMjM0MDY1OC0yMDIzLTAyLTI40gGMAWh0dHBzOi8vd3d3LmluZGlhdG9kYXkuaW4vYW1wL2hlYWx0aC9zdG9yeS9zdHVkeS1yZXZlYWxzLWFydGlmaWNpYWwtc3dlZXRlbmVycy1jb3VsZC1pbmNyZWFzZS1yaXNrLW9mLWhlYXJ0LWF0dGFjay1zdHJva2UtMjM0MDY1OC0yMDIzLTAyLTI4?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T08:16:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Indian Express",
+            "title": "5 foods for better serotonin levels - The Indian Express",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vd2ViLXN0b3JpZXMvZm9vZC81LWZvb2RzLWZvci1iZXR0ZXItc2Vyb3RvbmluLWxldmVscy_SAU9odHRwczovL2luZGlhbmV4cHJlc3MuY29tL3dlYi1zdG9yaWVzL2Zvb2QvNS1mb29kcy1mb3ItYmV0dGVyLXNlcm90b25pbi1sZXZlbHMv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T08:15:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Indian Express",
+            "title": "Menopausal women are turning to hormone therapy to ease symptoms; but does it also help manage diabetes, osteoporosis, heart disease? - The Indian Express",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvbGlmZXN0eWxlL2hlYWx0aC9ob3Jtb25lLXRoZXJhcHktbWVub3BhdXNhbC13b21lbi1kaWFiZXRlcy1vc3Rlb3Bvcm9zaXMtaGVhcnQtZGlzZWFzZS1yaXNrLWV4cGVydHMtODQyNTY2Ny_SAZIBaHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9hcnRpY2xlL2xpZmVzdHlsZS9oZWFsdGgvaG9ybW9uZS10aGVyYXB5LW1lbm9wYXVzYWwtd29tZW4tZGlhYmV0ZXMtb3N0ZW9wb3Jvc2lzLWhlYXJ0LWRpc2Vhc2Utcmlzay1leHBlcnRzLTg0MjU2NjcvbGl0ZS8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T07:50:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ETHealthWorld",
+            "title": "New link between fatal muscle wasting disease gene and cancer discovered - ETHealthWorld",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvaW5kdXN0cnkvbmV3LWxpbmstYmV0d2Vlbi1mYXRhbC1tdXNjbGUtd2FzdGluZy1kaXNlYXNlLWdlbmUtYW5kLWNhbmNlci1kaXNjb3ZlcmVkLzk4Mjk2NDA30gGPAWh0dHBzOi8vaGVhbHRoLmVjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vYW1wL25ld3MvaW5kdXN0cnkvbmV3LWxpbmstYmV0d2Vlbi1mYXRhbC1tdXNjbGUtd2FzdGluZy1kaXNlYXNlLWdlbmUtYW5kLWNhbmNlci1kaXNjb3ZlcmVkLzk4Mjk2NDA3?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T07:15:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Moneycontrol",
+            "title": "XDR Shigella: 5 points about drug-resistant stomach bug spreading across US - Moneycontrol",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvdHJlbmRzL3hkci1zaGlnZWxsYS01LXBvaW50cy1hYm91dC1kcnVnLXJlc2lzdGFudC1zdG9tYWNoLWJ1Zy1zcHJlYWRpbmctYWNyb3NzLXVzLTEwMTczNzgxLmh0bWzSAYUBaHR0cHM6Ly93d3cubW9uZXljb250cm9sLmNvbS9uZXdzL3RyZW5kcy94ZHItc2hpZ2VsbGEtNS1wb2ludHMtYWJvdXQtZHJ1Zy1yZXNpc3RhbnQtc3RvbWFjaC1idWctc3ByZWFkaW5nLWFjcm9zcy11cy0xMDE3Mzc4MS5odG1sL2FtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T07:10:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NDTV",
+            "title": "Following A High-Protein Diet For Weight Loss? Know The Ill-Effects Of Consumign Too Much Protein - NDTV",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5uZHR2LmNvbS9oZWFsdGgvZm9sbG93aW5nLWEtaGlnaC1wcm90ZWluLWRpZXQtZm9yLXdlaWdodC1sb3NzLWtub3ctdGhlLWlsbC1lZmZlY3RzLW9mLWNvbnN1bWlnbi10b28tbXVjaC1wcm90ZWluLTM4MjA3OTjSAYoBaHR0cHM6Ly93d3cubmR0di5jb20vaGVhbHRoL2ZvbGxvd2luZy1hLWhpZ2gtcHJvdGVpbi1kaWV0LWZvci13ZWlnaHQtbG9zcy1rbm93LXRoZS1pbGwtZWZmZWN0cy1vZi1jb25zdW1pZ24tdG9vLW11Y2gtcHJvdGVpbi0zODIwNzk4L2FtcC8x?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T06:44:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Weather Channel",
+            "title": "19-Year-Old Boy Suspected to Suffer From Alzheimer's Disease, Claims New China-Based Research - The Weather Channel",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd2VhdGhlci5jb20vZW4tSU4vaW5kaWEvaGVhbHRoL25ld3MvMjAyMy0wMi0yOC0xOS15ZWFyLW9sZC1ib3ktc3VzcGVjdGVkLXRvLXN1ZmZlci1mcm9tLWFsemhlaW1lcnPSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T05:53:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Zee News",
+            "title": "Cardiovascular Diseases: Reproductive Factors In Women Contribute to Risk - Zee News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vemVlbmV3cy5pbmRpYS5jb20vaGVhbHRoL2NhcmRpb3Zhc2N1bGFyLWRpc2Vhc2VzLXJlcHJvZHVjdGl2ZS1mYWN0b3JzLWluLXdvbWVuLWNvbnRyaWJ1dGUtdG8tcmlzay0yNTc3OTE10gF1aHR0cHM6Ly96ZWVuZXdzLmluZGlhLmNvbS9oZWFsdGgvY2FyZGlvdmFzY3VsYXItZGlzZWFzZXMtcmVwcm9kdWN0aXZlLWZhY3RvcnMtaW4td29tZW4tY29udHJpYnV0ZS10by1yaXNrLTI1Nzc5MTUvYW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T05:51:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NDTV",
+            "title": "What Leads To Inflammation? Here's How It Affects Your Body If Left Uncontrolled - NDTV",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5kdHYuY29tL2hlYWx0aC93aGF0LWxlYWRzLXRvLWluZmxhbW1hdGlvbi1oZXJlcy1ob3ctaXQtYWZmZWN0cy15b3VyLWJvZHktaWYtbGVmdC11bmNvbnRyb2xsZWQtMzgyMDY5MtIBeGh0dHBzOi8vd3d3Lm5kdHYuY29tL2hlYWx0aC93aGF0LWxlYWRzLXRvLWluZmxhbW1hdGlvbi1oZXJlcy1ob3ctaXQtYWZmZWN0cy15b3VyLWJvZHktaWYtbGVmdC11bmNvbnRyb2xsZWQtMzgyMDY5Mi9hbXAvMQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T05:48:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Health shots",
+            "title": "Follow these tips to avoid fatty liver disease - Health shots",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmhlYWx0aHNob3RzLmNvbS93ZWItc3Rvcmllcy9mb2xsb3ctdGhlc2UtdGlwcy10by1hdm9pZC1mYXR0eS1saXZlci1kaXNlYXNlL9IBV2h0dHBzOi8vd3d3LmhlYWx0aHNob3RzLmNvbS93ZWItc3Rvcmllcy9mb2xsb3ctdGhlc2UtdGlwcy10by1hdm9pZC1mYXR0eS1saXZlci1kaXNlYXNlLw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T05:48:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Sentinel Assam",
+            "title": "Prioritizing childhood cancer management - Sentinelassam - The Sentinel Assam",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnNlbnRpbmVsYXNzYW0uY29tL2VkaXRvcmlhbC9wcmlvcml0aXppbmctY2hpbGRob29kLWNhbmNlci1tYW5hZ2VtZW50LTYzOTMyNtIBW2h0dHBzOi8vd3d3LnNlbnRpbmVsYXNzYW0uY29tL2FtcC9lZGl0b3JpYWwvcHJpb3JpdGl6aW5nLWNoaWxkaG9vZC1jYW5jZXItbWFuYWdlbWVudC02MzkzMjY?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T05:39:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Jagran English",
+            "title": "4 Ways How Consuming Soaked Almonds Regularly Is Beneficial For A Healthy Body And Mind - Jagran English",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL2VuZ2xpc2guamFncmFuLmNvbS9saWZlc3R5bGUvd2F5cy1ob3ctY29uc3VtaW5nLXNvYWtlZC1hbG1vbmRzLXJlZ3VsYXJseS1pcy1iZW5lZmljaWFsLWZvci1hLWhlYWx0aHktYm9keS1hbmQtbWluZC0xMDA2NzAwNNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T05:25:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "africacdc.org",
+            "title": "Africa CDC in collaboration with Institut Pasteur de Dakar (IPD) organized a training on Molecular Diagnosis of Marburg Virus – Africa CDC - africacdc.org",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMinAFodHRwczovL2FmcmljYWNkYy5vcmcvbmV3cy1pdGVtL2FmcmljYS1jZGMtaW4tY29sbGFib3JhdGlvbi13aXRoLWluc3RpdHV0LXBhc3RldXItZGUtZGFrYXItaXBkLW9yZ2FuaXplZC1hLXRyYWluaW5nLW9uLW1vbGVjdWxhci1kaWFnbm9zaXMtb2YtbWFyYnVyZy12aXJ1cy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T05:02:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Indian Express",
+            "title": "Benefits of salicylic acid - The Indian Express",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vd2ViLXN0b3JpZXMvYmVhdXR5L2JlbmVmaXRzLW9mLXNhbGljeWxpYy1hY2lkL9IBSGh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vd2ViLXN0b3JpZXMvYmVhdXR5L2JlbmVmaXRzLW9mLXNhbGljeWxpYy1hY2lkLw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T04:52:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Financial Express",
+            "title": "Women’s health in rural communities: It is high time we understand what complications are! - The Financial Express",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9saWZlc3R5bGUvaGVhbHRoL3dvbWVucy1oZWFsdGgtaW4tcnVyYWwtY29tbXVuaXRpZXMtaXQtaXMtaGlnaC10aW1lLXdlLXVuZGVyc3RhbmQtd2hhdC1jb21wbGljYXRpb25zLWFyZS8yOTk0MTg3L9IBlwFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9saWZlc3R5bGUvaGVhbHRoL3dvbWVucy1oZWFsdGgtaW4tcnVyYWwtY29tbXVuaXRpZXMtaXQtaXMtaGlnaC10aW1lLXdlLXVuZGVyc3RhbmQtd2hhdC1jb21wbGljYXRpb25zLWFyZS8yOTk0MTg3L2xpdGUv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T04:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Jagran English",
+            "title": "Weight Loss: Here's How Consuming Sprouts Regularly Can Help Shed Those Extra Kilos - Jagran English",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vZW5nbGlzaC5qYWdyYW4uY29tL2xpZmVzdHlsZS93ZWlnaHQtbG9zcy1oZXJlcy1ob3ctY29uc3VtaW5nLXNwcm91dHMtcmVndWxhcmx5LWNhbi1oZWxwLXNoZWQtdGhvc2UtZXh0cmEta2lsb3MtMTAwNjY5ODnSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T03:46:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Times of India",
+            "title": "5 fitness mistakes that is making you lose your muscle mass - Times of India",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9saWZlLXN0eWxlL2hlYWx0aC1maXRuZXNzL2ZpdG5lc3MvNS1maXRuZXNzLW1pc3Rha2VzLXRoYXQtaXMtbWFraW5nLXlvdS1sb3NlLXlvdXItbXVzY2xlLW1hc3MvcGhvdG9zdG9yeS85ODI3NTI0NC5jbXPSAZYBaHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vbGlmZS1zdHlsZS9oZWFsdGgtZml0bmVzcy9maXRuZXNzLzUtZml0bmVzcy1taXN0YWtlcy10aGF0LWlzLW1ha2luZy15b3UtbG9zZS15b3VyLW11c2NsZS1tYXNzL2FtcF9ldHBob3Rvc3RvcnkvOTgyNzUyNDQuY21z?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T03:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Science Daily",
+            "title": "Nerve--immune cell interactions in the lungs drive the development of allergic asthma - Science Daily",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LnNjaWVuY2VkYWlseS5jb20vcmVsZWFzZXMvMjAyMy8wMi8yMzAyMjcxMzI2MDUuaHRt0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T01:56:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NutraIngredients-Asia",
+            "title": "High consumption of fatty acids is linked to lower quality of life in obese woman – new study - NutraIngredients-Asia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5udXRyYWluZ3JlZGllbnRzLWFzaWEuY29tL0FydGljbGUvMjAyMy8wMi8yNy9IaWdoLWNvbnN1bXB0aW9uLW9mLWZhdHR5LWFjaWRzLWlzLWxpbmtlZC10by1sb3dlci1xdWFsaXR5LW9mLWxpZmUtaW4tb2Jlc2Utd29tYW7SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T01:42:24Z",
+            "content": null
+        }
+    ]
+}

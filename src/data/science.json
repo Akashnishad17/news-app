@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Indian Express",
+            "title": "Technical glitch delays NASA-SpaceX launch of next space station crew - The Indian Express",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS90ZWNobm9sb2d5L3NjaWVuY2UvbmFzYS1zcGFjZXgtY3Jldy02LXRlY2huaWNhbC1nbGl0Y2gtODQ3MTA0Mi_SAWZodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvdGVjaG5vbG9neS9zY2llbmNlL25hc2Etc3BhY2V4LWNyZXctNi10ZWNobmljYWwtZ2xpdGNoLTg0NzEwNDIvbGl0ZS8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T07:33:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Tech Explorist",
+            "title": "New purification methods could make protein drugs cheaper - Tech Explorist",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRlY2hleHBsb3Jpc3QuY29tL25ldy1wdXJpZmljYXRpb24tbWV0aG9kcy1tYWtlLXByb3RlaW4tZHJ1Z3MtY2hlYXBlci81NzIwNi_SAV5odHRwczovL3d3dy50ZWNoZXhwbG9yaXN0LmNvbS9uZXctcHVyaWZpY2F0aW9uLW1ldGhvZHMtbWFrZS1wcm90ZWluLWRydWdzLWNoZWFwZXIvNTcyMDYvP2FtcD0x?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T07:17:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Republic World",
+            "title": "SpaceX launches 1st new generation Starlink 'V2 mini' satellites - Republic World",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5yZXB1YmxpY3dvcmxkLmNvbS9zY2llbmNlL3NwYWNlL3NwYWNleC1sYXVuY2hlcy0xc3QtbmV3LWdlbmVyYXRpb24tc3RhcmxpbmstdjItbWluaS1zYXRlbGxpdGVzLWFnYWluc3Qtc3R1bm5pbmctc3Vuc2V0LWFydGljbGVzaG93Lmh0bWzSAZcBaHR0cHM6Ly93d3cucmVwdWJsaWN3b3JsZC5jb20vYW1wL3NjaWVuY2Uvc3BhY2Uvc3BhY2V4LWxhdW5jaGVzLTFzdC1uZXctZ2VuZXJhdGlvbi1zdGFybGluay12Mi1taW5pLXNhdGVsbGl0ZXMtYWdhaW5zdC1zdHVubmluZy1zdW5zZXQtYXJ0aWNsZXNob3cuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T07:02:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "WION",
+            "title": "Asteroid Ryugu has life-building organic molecules, say scientists - WION",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lndpb25ld3MuY29tL3NjaWVuY2UvYXN0ZXJvaWQtcnl1Z3UtaGFzLWxpZmUtYnVpbGRpbmctb3JnYW5pYy1tb2xlY3VsZXMtc2F5LXNjaWVudGlzdHMtNTY2Njg10gFsaHR0cHM6Ly93d3cud2lvbmV3cy5jb20vc2NpZW5jZS9hc3Rlcm9pZC1yeXVndS1oYXMtbGlmZS1idWlsZGluZy1vcmdhbmljLW1vbGVjdWxlcy1zYXktc2NpZW50aXN0cy01NjY2ODUvYW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T06:24:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Devdiscourse",
+            "title": "Science News Roundup: Russian Soyuz spacecraft docks at ISS to bring back stranded crew; NASA names solar physicist as agency's science chief and more - Devdiscourse",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiuwFodHRwczovL3d3dy5kZXZkaXNjb3Vyc2UuY29tL2FydGljbGUvc2NpZW5jZS1lbnZpcm9ubWVudC8yMzY0MDc5LXNjaWVuY2UtbmV3cy1yb3VuZHVwLXJ1c3NpYW4tc295dXotc3BhY2VjcmFmdC1kb2Nrcy1hdC1pc3MtdG8tYnJpbmctYmFjay1zdHJhbmRlZC1jcmV3LW5hc2EtbmFtZXMtc29sYXItcGh5c2ljaXN0LWFzLWFnZW5j0gG_AWh0dHBzOi8vd3d3LmRldmRpc2NvdXJzZS5jb20vYXJ0aWNsZS9zY2llbmNlLWVudmlyb25tZW50LzIzNjQwNzktc2NpZW5jZS1uZXdzLXJvdW5kdXAtcnVzc2lhbi1zb3l1ei1zcGFjZWNyYWZ0LWRvY2tzLWF0LWlzcy10by1icmluZy1iYWNrLXN0cmFuZGVkLWNyZXctbmFzYS1uYW1lcy1zb2xhci1waHlzaWNpc3QtYXMtYWdlbmM_YW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T05:15:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Phys.org",
+            "title": "A dozen exotic bacteria are found to passively collect rare earth elements from wastewater - Phys.org",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vcGh5cy5vcmcvbmV3cy8yMDIzLTAyLWRvemVuLWV4b3RpYy1iYWN0ZXJpYS1wYXNzaXZlbHktcmFyZS5odG1s0gFGaHR0cHM6Ly9waHlzLm9yZy9uZXdzLzIwMjMtMDItZG96ZW4tZXhvdGljLWJhY3RlcmlhLXBhc3NpdmVseS1yYXJlLmFtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T05:10:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Chemie.de",
+            "title": "2D Janus materials could harvest abundant hydrogen fuel - Chemie.de",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNoZW1ldXJvcGUuY29tL2VuL25ld3MvMTE3OTY3MS8yZC1qYW51cy1tYXRlcmlhbHMtY291bGQtaGFydmVzdC1hYnVuZGFudC1oeWRyb2dlbi1mdWVsLmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T05:07:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "HT Tech",
+            "title": "Skyscraper-sized asteroid to buzz Earth today! NASA Tracks Impending Earth Flyby - HT Tech",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3RlY2guaGluZHVzdGFudGltZXMuY29tL3RlY2gvbmV3cy9za3lzY3JhcGVyc2l6ZWQtYXN0ZXJvaWQtdG8tYnV6ei1lYXJ0aC10b2RheS1uYXNhLXRyYWNrcy1pbXBlbmRpbmctZWFydGgtZmx5YnktNzE2Nzc1NTk4ODEwMTMuaHRtbNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T04:53:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Indiatimes.com",
+            "title": "Nasa names solar physicist as agency's science chief - Indiatimes.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2hvbWUvc2NpZW5jZS9uYXNhLW5hbWVzLXNvbGFyLXBoeXNpY2lzdC1hcy1hZ2VuY3lzLXNjaWVuY2UtY2hpZWYvYXJ0aWNsZXNob3cvOTgyOTA4MjcuY21z0gF4aHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vaG9tZS9zY2llbmNlL25hc2EtbmFtZXMtc29sYXItcGh5c2ljaXN0LWFzLWFnZW5jeXMtc2NpZW5jZS1jaGllZi9hbXBfYXJ0aWNsZXNob3cvOTgyOTA4MjcuY21z?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T03:42:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Indiatimes.com",
+            "title": "Aditya L1 Spacecraft: India’s first solar mission to do Surya Namaskar at L1 point near Sun | India News - Indiatimes.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikgFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9pbmRpYS9pbmRpYXMtYWRpdHlhLXNwYWNlY3JhZnQtdG8tZG8tc3VyeWEtbmFtYXNrYXItYXQtbDEtcG9pbnQtbmVhci1zdW4tdG8tc3R1ZHktc29sYXItZmxhcmVzL2FydGljbGVzaG93Lzk4Mjg4NTk5LmNtc9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T01:59:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Science Daily",
+            "title": "Clear sign that quark-gluon plasma production 'turns off' at low energy - Science Daily",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LnNjaWVuY2VkYWlseS5jb20vcmVsZWFzZXMvMjAyMy8wMi8yMzAyMjcxMzI1MzUuaHRt0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T01:36:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Oxford Academic",
+            "title": "SN 2021zny: An early flux excess combined with late-time oxygen emission suggests a double white dwarf merger event - Oxford Academic",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vYWNhZGVtaWMub3VwLmNvbS9tbnJhcy9hZHZhbmNlLWFydGljbGUtYWJzdHJhY3QvZG9pLzEwLjEwOTMvbW5yYXMvc3RhZDUzNi83MDU5MjIy0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T01:34:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Oxford Academic",
+            "title": "Characterizing the nucleus of comet 162P/Siding Spring using ground-based photometry - Oxford Academic",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vYWNhZGVtaWMub3VwLmNvbS9tbnJhcy9hZHZhbmNlLWFydGljbGUvZG9pLzEwLjEwOTMvbW5yYXMvc3RhZDYxNi83MDU5MjE40gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T01:12:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "News-Medical.Net",
+            "title": "New insights into how amino acids shaped the genetic code of ancient microorganisms - News-Medical.Net",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5uZXdzLW1lZGljYWwubmV0L25ld3MvMjAyMzAyMjcvTmV3LWluc2lnaHRzLWludG8taG93LWFtaW5vLWFjaWRzLXNoYXBlZC10aGUtZ2VuZXRpYy1jb2RlLW9mLWFuY2llbnQtbWljcm9vcmdhbmlzbXMuYXNweNIBhwFodHRwczovL3d3dy5uZXdzLW1lZGljYWwubmV0L2FtcC9uZXdzLzIwMjMwMjI3L05ldy1pbnNpZ2h0cy1pbnRvLWhvdy1hbWluby1hY2lkcy1zaGFwZWQtdGhlLWdlbmV0aWMtY29kZS1vZi1hbmNpZW50LW1pY3Jvb3JnYW5pc21zLmFzcHg?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T00:51:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Geography Realm",
+            "title": "Glaciers in the Antarctic Peninsula are Moving Faster During the Summers - Geography Realm",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lmdlb2dyYXBoeXJlYWxtLmNvbS9nbGFjaWVycy1hbnRhcmN0aWMtcGVuaW5zdWxhLXN1bW1lcnMv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T00:06:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Universe Today",
+            "title": "Venus is Like an Exoplanet that's Right Next Door - Universe Today",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnVuaXZlcnNldG9kYXkuY29tLzE2MDE1Ni92ZW51cy1pcy1saWtlLWFuLWV4b3BsYW5ldC10aGF0cy1yaWdodC1uZXh0LWRvb3Iv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T21:30:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Nanowerk",
+            "title": "Astronomers discover metal-rich galaxy in early universe - Nanowerk",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3Lm5hbm93ZXJrLmNvbS9uZXdzMi9zcGFjZS9uZXdzaWQ9NjI0NjMucGhw0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T19:36:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Phys.org",
+            "title": "Monkey mouths and hands could be key to future interactive enrichment systems - Phys.org",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vcGh5cy5vcmcvbmV3cy8yMDIzLTAyLW1vbmtleS1tb3V0aHMta2V5LWZ1dHVyZS1pbnRlcmFjdGl2ZS5odG1s0gFGaHR0cHM6Ly9waHlzLm9yZy9uZXdzLzIwMjMtMDItbW9ua2V5LW1vdXRocy1rZXktZnV0dXJlLWludGVyYWN0aXZlLmFtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T19:12:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Economic Times",
+            "title": "NASA's James Webb telescope spots six galaxies; Here's why it matters - Far sooner than possible - Economic Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipAFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbmV3cy9zY2llbmNlL25hc2FzLWphbWVzLXdlYmItdGVsZXNjb3BlLXNwb3RzLXNpeC1nYWxheGllcy1oZXJlcy13aHktaXQtbWF0dGVycy9mYXItc29vbmVyLXRoYW4tcG9zc2libGUvc2xpZGVzaG93Lzk4MjgzNDk5LmNtc9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T18:18:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Times of India",
+            "title": "Here's how AI has simplified animal behaviour analysis - Times of India",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2hvbWUvc2NpZW5jZS9oZXJlcy1ob3ctYWktaGFzLXNpbXBsaWZpZWQtYW5pbWFsLWJlaGF2aW91ci1hbmFseXNpcy9hcnRpY2xlc2hvdy85ODI4MzE1My5jbXPSAXpodHRwczovL20udGltZXNvZmluZGlhLmNvbS9ob21lL3NjaWVuY2UvaGVyZXMtaG93LWFpLWhhcy1zaW1wbGlmaWVkLWFuaW1hbC1iZWhhdmlvdXItYW5hbHlzaXMvYW1wX2FydGljbGVzaG93Lzk4MjgzMTUzLmNtcw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T17:49:00Z",
+            "content": null
+        }
+    ]
+}

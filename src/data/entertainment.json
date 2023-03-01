@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Hindustan Times",
+            "title": "Farhan Akhtar pens note after cancelling Australia tour: 'Please believe me...' - Hindustan Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiuQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9ib2xseXdvb2QvZmFyaGFuLWFraHRhci1wZW5zLW5vdGUtYWZ0ZXItY2FuY2VsbGluZy1hdXN0cmFsaWEtdG91ci1sZWF2ZXMtZmFucy1kaXNhcHBvaW50ZWQtcGxlYXNlLWJlbGlldmUtbWUtd2hlbi1pLXNheS0xMDE2Nzc1NjcxMTU4NDMuaHRtbNIBvQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9ib2xseXdvb2QvZmFyaGFuLWFraHRhci1wZW5zLW5vdGUtYWZ0ZXItY2FuY2VsbGluZy1hdXN0cmFsaWEtdG91ci1sZWF2ZXMtZmFucy1kaXNhcHBvaW50ZWQtcGxlYXNlLWJlbGlldmUtbWUtd2hlbi1pLXNheS0xMDE2Nzc1NjcxMTU4NDMtYW1wLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T07:24:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Hindustan Times",
+            "title": "Manoj Bajpayee recalls Shah Rukh took him to disco: 'Maine chappal pehni thi' - Hindustan Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiwAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9ib2xseXdvb2QvbWFub2otYmFqcGF5ZWUtcmVjYWxscy1zaGFoLXJ1a2gtdG9vay1oaW0tdG8tZGlzY28tZm9yLTFzdC10aW1lLW1haW5lLWNoYXBwYWwtcGVobmktdGhpLXNhYnNlLWdhcmliLWFkbWktbWFpbi1oaS10aGEtMTAxNjc3NTY0MjQ0NTI5Lmh0bWzSAcQBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2VudGVydGFpbm1lbnQvYm9sbHl3b29kL21hbm9qLWJhanBheWVlLXJlY2FsbHMtc2hhaC1ydWtoLXRvb2staGltLXRvLWRpc2NvLWZvci0xc3QtdGltZS1tYWluZS1jaGFwcGFsLXBlaG5pLXRoaS1zYWJzZS1nYXJpYi1hZG1pLW1haW4taGktdGhhLTEwMTY3NzU2NDI0NDUyOS1hbXAuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T07:13:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NDTV Movies",
+            "title": "Mini Mathur's Throwbacks From Wedding To Kabir Khan: \"No Hashtags, No Bridal Entry Music\" - NDTV Movies",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm5kdHYuY29tL2VudGVydGFpbm1lbnQvbWluaS1tYXRodXJzLXRocm93YmFja3MtZnJvbS13ZWRkaW5nLXRvLWthYmlyLWtoYW4tbm8taGFzaHRhZ3Mtbm8tYnJpZGFsLWVudHJ5LW11c2ljLTM4MjA4NDfSAYUBaHR0cHM6Ly93d3cubmR0di5jb20vZW50ZXJ0YWlubWVudC9taW5pLW1hdGh1cnMtdGhyb3diYWNrcy1mcm9tLXdlZGRpbmctdG8ta2FiaXIta2hhbi1uby1oYXNodGFncy1uby1icmlkYWwtZW50cnktbXVzaWMtMzgyMDg0Ny9hbXAvMQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T06:59:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "DNP INDIA ",
+            "title": "Khesari Lal’s flirtatious romance with Sapna Chauhan on ‘Pichkari Pakad Ke’ shows how to play Holi with your beau, watch sizzling video here - DNP INDIA ",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMitgFodHRwczovL3d3dy5kbnBpbmRpYS5pbi9lbnRlcnRhaW5tZW50L2toZXNhcmktbGFscy1mbGlydGF0aW91cy1yb21hbmNlLXdpdGgtc2FwbmEtY2hhdWhhbi1vbi1waWNoa2FyaS1wYWthZC1rZS1zaG93cy1ob3ctdG8tcGxheS1ob2xpLXdpdGgteW91ci1iZWF1LXdhdGNoLXNpenpsaW5nLXZpZGVvLWhlcmUvMTg3Mjk3L9IBtgFodHRwczovL3d3dy5kbnBpbmRpYS5pbi9lbnRlcnRhaW5tZW50L2toZXNhcmktbGFscy1mbGlydGF0aW91cy1yb21hbmNlLXdpdGgtc2FwbmEtY2hhdWhhbi1vbi1waWNoa2FyaS1wYWthZC1rZS1zaG93cy1ob3ctdG8tcGxheS1ob2xpLXdpdGgteW91ci1iZWF1LXdhdGNoLXNpenpsaW5nLXZpZGVvLWhlcmUvMTg3Mjk3Lw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T06:47:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Hindustan Times",
+            "title": "Ranveer Singh answers critics in new ad: 'Kuch logo ko mujhse badi problem hai…’ - Hindustan Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9ib2xseXdvb2QvcmFudmVlci1zaW5naC1hbnN3ZXJzLWNyaXRpY3MtaW4tbmV3LWFkLWt1Y2gtbG9nby1rby1tdWpoc2UtYmFkaS1wcm9ibGVtLWhhaS13YXRjaC0xMDE2Nzc1NjA4NDg5NzcuaHRtbNIBogFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9ib2xseXdvb2QvcmFudmVlci1zaW5naC1hbnN3ZXJzLWNyaXRpY3MtaW4tbmV3LWFkLWt1Y2gtbG9nby1rby1tdWpoc2UtYmFkaS1wcm9ibGVtLWhhaS13YXRjaC0xMDE2Nzc1NjA4NDg5NzctYW1wLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T06:22:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Indiatimes.com",
+            "title": "Deepika Padukone opens up on staying calm during the Pathaan controversy, reveals handling adversity 'com - Indiatimes.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMi0AFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9lbnRlcnRhaW5tZW50L2hpbmRpL2JvbGx5d29vZC9uZXdzL2RlZXBpa2EtcGFkdWtvbmUtb3BlbnMtdXAtb24tc3RheWluZy1jYWxtLWR1cmluZy10aGUtcGF0aGFhbi1jb250cm92ZXJzeS1yZXZlYWxzLWhhbmRsaW5nLWFkdmVyc2l0eS1jb21lcy13aXRoLWV4cGVyaWVuY2UvYXJ0aWNsZXNob3cvOTgyOTUwNDYuY21z0gHUAWh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2VudGVydGFpbm1lbnQvaGluZGkvYm9sbHl3b29kL25ld3MvZGVlcGlrYS1wYWR1a29uZS1vcGVucy11cC1vbi1zdGF5aW5nLWNhbG0tZHVyaW5nLXRoZS1wYXRoYWFuLWNvbnRyb3ZlcnN5LXJldmVhbHMtaGFuZGxpbmctYWR2ZXJzaXR5LWNvbWVzLXdpdGgtZXhwZXJpZW5jZS9hbXBfYXJ0aWNsZXNob3cvOTgyOTUwNDYuY21z?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T06:22:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Indiatimes.com",
+            "title": "14-year-old UNSEEN picture of Samantha Ruth Prabhu goes VIRAL, leaves netizens amazed - Indiatimes.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMioQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS92aWRlb3MvZW50ZXJ0YWlubWVudC9oaW5kaS8xNC15ZWFyLW9sZC11bnNlZW4tcGljdHVyZS1vZi1zYW1hbnRoYS1ydXRoLXByYWJodS1nb2VzLXZpcmFsLWxlYXZlcy1uZXRpemVucy1hbWF6ZWQvdmlkZW9zaG93Lzk4Mjk0NzkyLmNtc9IBpQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS92aWRlb3MvZW50ZXJ0YWlubWVudC9oaW5kaS8xNC15ZWFyLW9sZC11bnNlZW4tcGljdHVyZS1vZi1zYW1hbnRoYS1ydXRoLXByYWJodS1nb2VzLXZpcmFsLWxlYXZlcy1uZXRpemVucy1hbWF6ZWQvYW1wX3ZpZGVvc2hvdy85ODI5NDc5Mi5jbXM?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T06:13:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "India Today",
+            "title": "Fan proposes marriage to Mrunal Thakur. Her reply will leave you in splits - India Today",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL21vdmllcy9jZWxlYnJpdGllcy9zdG9yeS9mYW4tcHJvcG9zZXMtbWFycmlhZ2UtdG8tbXJ1bmFsLXRoYWt1ci1oZXItcmVwbHktd2lsbC1sZWF2ZS15b3UtaW4tc3BsaXRzLTIzNDA1ODMtMjAyMy0wMi0yONIBkwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2FtcC9tb3ZpZXMvY2VsZWJyaXRpZXMvc3RvcnkvZmFuLXByb3Bvc2VzLW1hcnJpYWdlLXRvLW1ydW5hbC10aGFrdXItaGVyLXJlcGx5LXdpbGwtbGVhdmUteW91LWluLXNwbGl0cy0yMzQwNTgzLTIwMjMtMDItMjg?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T05:55:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NDTV Movies",
+            "title": "Aditi Rao Hydari And Rumoured Boyfriend Siddharth Are Adorable In Viral-Worthy Dance Routine - NDTV Movies",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm5kdHYuY29tL2VudGVydGFpbm1lbnQvYWRpdGktcmFvLWh5ZGFyaS1hbmQtcnVtb3VyZWQtYm95ZnJpZW5kLXNpZGRoYXJ0aC1zLXR1bS10dW0tZGFuY2UtcmVlbHMtaXMtc3VwZXItaGl0LTM4MjA0ODbSAYUBaHR0cHM6Ly93d3cubmR0di5jb20vZW50ZXJ0YWlubWVudC9hZGl0aS1yYW8taHlkYXJpLWFuZC1ydW1vdXJlZC1ib3lmcmllbmQtc2lkZGhhcnRoLXMtdHVtLXR1bS1kYW5jZS1yZWVscy1pcy1zdXBlci1oaXQtMzgyMDQ4Ni9hbXAvMQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T05:45:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Hindustan Times",
+            "title": "When Ranbir Kapoor was approached by his CA to make a will before Raha's birth - Hindustan Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9ib2xseXdvb2Qvd2hlbi1yYW5iaXIta2Fwb29yLXdhcy1hcHByb2FjaGVkLWJ5LWhpcy1jYS10by1tYWtlLWEtd2lsbC1iZWZvcmUtcmFoYS1zLWJpcnRoLTEwMTY3NzU1ODE2NzExNy5odG1s0gGeAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9lbnRlcnRhaW5tZW50L2JvbGx5d29vZC93aGVuLXJhbmJpci1rYXBvb3Itd2FzLWFwcHJvYWNoZWQtYnktaGlzLWNhLXRvLW1ha2UtYS13aWxsLWJlZm9yZS1yYWhhLXMtYmlydGgtMTAxNjc3NTU4MTY3MTE3LWFtcC5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T05:22:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Indiatimes.com",
+            "title": "MC Stan and Kapil Sharma's rap dance sets the internet on fire; gets record breaking views and comments - Indiatimes.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS90di9uZXdzL2hpbmRpL21jLXN0YW4tYW5kLWthcGlsLXNoYXJtYXMtcmFwLWRhbmNlLXNldHMtdGhlLWludGVybmV0LW9uLWZpcmUtZ2V0cy1yZWNvcmQtYnJlYWtpbmctdmlld3MtYW5kLWNvbW1lbnRzL2FydGljbGVzaG93Lzk4MjkyOTgxLmNtc9IBqwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS90di9uZXdzL2hpbmRpL21jLXN0YW4tYW5kLWthcGlsLXNoYXJtYXMtcmFwLWRhbmNlLXNldHMtdGhlLWludGVybmV0LW9uLWZpcmUtZ2V0cy1yZWNvcmQtYnJlYWtpbmctdmlld3MtYW5kLWNvbW1lbnRzL2FtcF9hcnRpY2xlc2hvdy85ODI5Mjk4MS5jbXM?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T05:22:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "123telugu",
+            "title": "Pushpa 2 glimpse to be out on this special date? - 123telugu",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LjEyM3RlbHVndS5jb20vbW5ld3MvcHVzaHBhLTItZ2xpbXBzZS10by1iZS1vdXQtb24tdGhpcy1zcGVjaWFsLWRhdGUuaHRtbNIBWGh0dHBzOi8vd3d3LjEyM3RlbHVndS5jb20vbW5ld3MvcHVzaHBhLTItZ2xpbXBzZS10by1iZS1vdXQtb24tdGhpcy1zcGVjaWFsLWRhdGUuaHRtbC9hbXA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T05:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "PINKVILLA",
+            "title": "Kiara Advani says post-wedding ‘glow is real’; Sidharth Malhotra feels their marriage was ‘meant to be’ - PINKVILLA",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5waW5rdmlsbGEuY29tL2VudGVydGFpbm1lbnQvbmV3cy9raWFyYS1hZHZhbmktc2F5cy1wb3N0LXdlZGRpbmctZ2xvdy1pcy1yZWFsLXNpZGhhcnRoLW1hbGhvdHJhLWZlZWxzLXRoZWlyLW1hcnJpYWdlLXdhcy1tZWFudC10by1iZS0xMjEwODcx0gGbAWh0dHBzOi8vd3d3LnBpbmt2aWxsYS5jb20vZW50ZXJ0YWlubWVudC9uZXdzL2tpYXJhLWFkdmFuaS1zYXlzLXBvc3Qtd2VkZGluZy1nbG93LWlzLXJlYWwtc2lkaGFydGgtbWFsaG90cmEtZmVlbHMtdGhlaXItbWFycmlhZ2Utd2FzLW1lYW50LXRvLWJlLTEyMTA4NzE_YW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T04:32:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Times Now",
+            "title": "Pakistani cooking show contestant gets restaurant-made Biryani to present to judges, clip goes viral - WATCH - Times Now",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy50aW1lc25vd25ld3MuY29tL3ZpcmFsL3Bha2lzdGFuaS1jb29raW5nLXNob3ctY29udGVzdGFudC1nZXRzLXJlc3RhdXJhbnQtbWFkZS1iaXJ5YW5pLXRvLXByZXNlbnQtdG8tanVkZ2VzLWNsaXAtZ29lcy12aXJhbC1hcnRpY2xlLTk4MjkwMjYx0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T04:28:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NDTV Movies",
+            "title": "From One Citadel Star To Another: How Samantha Ruth Prabhu Reacted To Priyanka Chopra's Post - NDTV Movies",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5uZHR2LmNvbS9lbnRlcnRhaW5tZW50L2Zyb20tb25lLWNpdGFkZWwtc3Rhci10by1hbm90aGVyLWhvdy1zYW1hbnRoYS1ydXRoLXByYWJodS1yZWFjdGVkLXRvLXByaXlhbmthLWNob3ByYXMtcG9zdC0zODIwNDY40gGLAWh0dHBzOi8vd3d3Lm5kdHYuY29tL2VudGVydGFpbm1lbnQvZnJvbS1vbmUtY2l0YWRlbC1zdGFyLXRvLWFub3RoZXItaG93LXNhbWFudGhhLXJ1dGgtcHJhYmh1LXJlYWN0ZWQtdG8tcHJpeWFua2EtY2hvcHJhcy1wb3N0LTM4MjA0NjgvYW1wLzE?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T04:20:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Hindustan Times",
+            "title": "Charu Asopa, estranged husband Rajeev Sen celebrate her birthday together - Hindustan Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMitQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC90di9jaGFydS1hc29wYS1lc3RyYW5nZWQtaHVzYmFuZC1yYWplZXYtc2VuLWNlbGVicmF0ZS1oZXItYmlydGhkYXktdG9nZXRoZXItZmFucy1yZWFjdC1rYWJoaS1kaXZvcmNlLWthYmhpLXBhdGNoLXVwLTEwMTY3NzU1NTkyOTk4NC5odG1s0gG5AWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9lbnRlcnRhaW5tZW50L3R2L2NoYXJ1LWFzb3BhLWVzdHJhbmdlZC1odXNiYW5kLXJhamVldi1zZW4tY2VsZWJyYXRlLWhlci1iaXJ0aGRheS10b2dldGhlci1mYW5zLXJlYWN0LWthYmhpLWRpdm9yY2Uta2FiaGktcGF0Y2gtdXAtMTAxNjc3NTU1OTI5OTg0LWFtcC5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T04:09:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Times of India",
+            "title": "Rashmika Mandanna stuns in bold off-shoulder lacy dress; netizens are not impressed – ‘Behen yeh bhi kyun pehena hai?’ - Times of India",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMixgFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS92aWRlb3MvZW50ZXJ0YWlubWVudC9oaW5kaS9yYXNobWlrYS1tYW5kYW5uYS1zdHVucy1pbi1ib2xkLW9mZi1zaG91bGRlci1sYWN5LWRyZXNzLW5ldGl6ZW5zLWFyZS1ub3QtaW1wcmVzc2VkLWJlaGVuLXllaC1iaGkta3l1bi1wZWhlbmEtaGFpL3ZpZGVvc2hvdy85ODI2OTEzOC5jbXPSAcEBaHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vdmlkZW9zL2VudGVydGFpbm1lbnQvaGluZGkvcmFzaG1pa2EtbWFuZGFubmEtc3R1bnMtaW4tYm9sZC1vZmYtc2hvdWxkZXItbGFjeS1kcmVzcy1uZXRpemVucy1hcmUtbm90LWltcHJlc3NlZC1iZWhlbi15ZWgtYmhpLWt5dW4tcGVoZW5hLWhhaS9hbXBfdmlkZW9zaG93Lzk4MjY5MTM4LmNtcw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T04:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "123telugu",
+            "title": "Sandeep Vanga penning a raw script for Prabhas? - 123telugu",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LjEyM3RlbHVndS5jb20vbW5ld3Mvc2FuZGVlcC12YW5nYS1wZW5uaW5nLWEtcmF3LXNjcmlwdC1mb3ItcHJhYmhhcy5odG1s0gFXaHR0cHM6Ly93d3cuMTIzdGVsdWd1LmNvbS9tbmV3cy9zYW5kZWVwLXZhbmdhLXBlbm5pbmctYS1yYXctc2NyaXB0LWZvci1wcmFiaGFzLmh0bWwvYW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T04:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Indiatimes.com",
+            "title": "Uttaran fame Tina Datta reveals why she had been missing from Bigg Boss 16 parties - Indiatimes.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMilAFodHRwczovL20udGltZXNvZmluZGlhLmNvbS90di9uZXdzL2hpbmRpL3V0dGFyYW4tZmFtZS10aW5hLWRhdHRhLXJldmVhbHMtd2h5LXNoZS1oYWQtYmVlbi1taXNzaW5nLWZyb20tYmlnZy1ib3NzLTE2LXBhcnRpZXMvYXJ0aWNsZXNob3cvOTgyOTA2MjEuY21z0gGYAWh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL3R2L25ld3MvaGluZGkvdXR0YXJhbi1mYW1lLXRpbmEtZGF0dGEtcmV2ZWFscy13aHktc2hlLWhhZC1iZWVuLW1pc3NpbmctZnJvbS1iaWdnLWJvc3MtMTYtcGFydGllcy9hbXBfYXJ0aWNsZXNob3cvOTgyOTA2MjEuY21z?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T03:37:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NDTV Movies",
+            "title": "F.R.I.E.N.D.S Forever: A Jennifer Aniston, Courteney Cox And Lisa Kudrow Reunion. Could We Be More Happy? - NDTV Movies",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5uZHR2LmNvbS9lbnRlcnRhaW5tZW50L2Ytci1pLWUtbi1kLXMtZm9yZXZlci1hLWplbm5pZmVyLWFuaXN0b24tY291cnRlbmV5LWNveC1hbmQtbGlzYS1rdWRyb3ctcmV1bmlvbi1jb3VsZC13ZS1iZS1tb3JlLWhhcHB5LTM4MjAzOTfSAZYBaHR0cHM6Ly93d3cubmR0di5jb20vZW50ZXJ0YWlubWVudC9mLXItaS1lLW4tZC1zLWZvcmV2ZXItYS1qZW5uaWZlci1hbmlzdG9uLWNvdXJ0ZW5leS1jb3gtYW5kLWxpc2Eta3Vkcm93LXJldW5pb24tY291bGQtd2UtYmUtbW9yZS1oYXBweS0zODIwMzk3L2FtcC8x?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T03:31:15Z",
+            "content": null
+        }
+    ]
+}

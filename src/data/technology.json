@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Sportskeeda",
+            "title": "Is Zentorno in GTA Online still worth it in 2023? - Sportskeeda",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LnNwb3J0c2tlZWRhLmNvbS9ndGEvaXMtemVudG9ybm8tZ3RhLW9ubGluZS1zdGlsbC13b3J0aC0yMDIz0gFLaHR0cHM6Ly93d3cuc3BvcnRza2VlZGEuY29tL2FtcC9ndGEvaXMtemVudG9ybm8tZ3RhLW9ubGluZS1zdGlsbC13b3J0aC0yMDIz?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T08:21:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Indian Express",
+            "title": "MWC 2023: OnePlus unveils new tech to keep your smartphones cool by 20 degrees while gaming - The Indian Express",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS90ZWNobm9sb2d5L21vYmlsZS10YWJzL213Yy0yMDIzLW9uZXBsdXMtNDUtbW9iaWxlLWNvb2xpbmctc29sdXRpb24tODQ3MDc1OC_SAXJodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvdGVjaG5vbG9neS9tb2JpbGUtdGFicy9td2MtMjAyMy1vbmVwbHVzLTQ1LW1vYmlsZS1jb29saW5nLXNvbHV0aW9uLTg0NzA3NTgvbGl0ZS8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T07:45:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CarToq.com",
+            "title": "Zomato CEO Deepinder Goyal buys a Ferrari Roma supercar worth Rs. 4.3 crore - CarToq.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmNhcnRvcS5jb20vem9tYXRvLWNlby1kZWVwaW5kZXItZ295YWwtYnV5cy1hLWZlcnJhcmktcm9tYS1zdXBlcmNhci13b3J0aC1ycy00LTMtY3JvcmUv0gFmaHR0cHM6Ly93d3cuY2FydG9xLmNvbS96b21hdG8tY2VvLWRlZXBpbmRlci1nb3lhbC1idXlzLWEtZmVycmFyaS1yb21hLXN1cGVyY2FyLXdvcnRoLXJzLTQtMy1jcm9yZS9hbXAv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T07:20:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Jagran English",
+            "title": "MWC 2023: Lenovo Introduces 'Rollable Laptop' Prototype At Mega-Event; Global Debut Soon? - Jagran English",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL2VuZ2xpc2guamFncmFuLmNvbS90ZWNobm9sb2d5L213Yy0yMDIzLWxlbm92by1pbnRyb2R1Y2VzLXJvbGxhYmxlLWxhcHRvcC1wcm90b3R5cGUtYXQtbWVnYWV2ZW50LWdsb2JhbC1kZWJ1dC1zb29uLTEwMDY3MDMw0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T07:16:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Sportskeeda",
+            "title": "How to easily change your arrow type in Sons of the Forest - Sportskeeda",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnNwb3J0c2tlZWRhLmNvbS9lc3BvcnRzL2hvdy1lYXNpbHktY2hhbmdlLWFycm93LXR5cGUtc29ucy1mb3Jlc3TSAVBodHRwczovL3d3dy5zcG9ydHNrZWVkYS5jb20vYW1wL2VzcG9ydHMvaG93LWVhc2lseS1jaGFuZ2UtYXJyb3ctdHlwZS1zb25zLWZvcmVzdA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T06:55:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Economic Times",
+            "title": "Snapchat launches its own 'My AI' chatbot powered by OpenAI's ChatGPT - Economic Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikgFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbWFnYXppbmVzL3BhbmFjaGUvc25hcGNoYXQtbGF1bmNoZXMtaXRzLW93bi1teS1haS1jaGF0Ym90LXBvd2VyZWQtYnktb3BlbmFpcy1jaGF0Z3B0L2FydGljbGVzaG93Lzk4Mjk1NzQ4LmNtc9IBjQFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbWFnYXppbmVzL3BhbmFjaGUvc25hcGNoYXQtbGF1bmNoZXMtaXRzLW93bi1teS1haS1jaGF0Ym90LXBvd2VyZWQtYnktb3BlbmFpcy1jaGF0Z3B0L2FtcF9hcnRpY2xlc2hvdy85ODI5NTc0OC5jbXM?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T06:54:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "HT Tech",
+            "title": "What we know so far about iPhone 15 Pro, iPhone 15 Pro Max - HT Tech",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3RlY2guaGluZHVzdGFudGltZXMuY29tL21vYmlsZS9uZXdzL3doYXQtd2Uta25vdy1zby1mYXItYWJvdXQtaXBob25lLTE1LXByby1pcGhvbmUtMTUtcHJvLW1heC1zby1mYXItNzE2Nzc1NjY2ODUzNjguaHRtbNIBhAFodHRwczovL3RlY2guaGluZHVzdGFudGltZXMuY29tL2FtcC9tb2JpbGUvbmV3cy93aGF0LXdlLWtub3ctc28tZmFyLWFib3V0LWlwaG9uZS0xNS1wcm8taXBob25lLTE1LXByby1tYXgtc28tZmFyLTcxNjc3NTY2Njg1MzY4Lmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T06:48:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "GSMArena.com",
+            "title": "Redmi introduces 300W fast charging which fills a phone battery in 5 minutes - GSMArena.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmdzbWFyZW5hLmNvbS9yZWRtaV9pbnRyb2R1Y2VzXzMwMHdfZmFzdF9jaGFyZ2luZ190ZWNobm9sb2d5LW5ld3MtNTc3MjAucGhw0gFTaHR0cHM6Ly9tLmdzbWFyZW5hLmNvbS9yZWRtaV9pbnRyb2R1Y2VzXzMwMHdfZmFzdF9jaGFyZ2luZ190ZWNobm9sb2d5LWFtcC01NzcyMC5waHA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T06:40:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Jagran English",
+            "title": "OnePlus 11R India Sale Begins: Know Exciting Offers, Discounts On Smartphone Here - Jagran English",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vZW5nbGlzaC5qYWdyYW4uY29tL3RlY2hub2xvZ3kvb25lcGx1cy0xMXItaW5kaWEtc2FsZS1iZWdpbnMta25vdy1leGNpdGluZy1vZmZlcnMtZGlzY291bnRzLW9uLXNtYXJ0cGhvbmUtaGVyZS0xMDA2NzAxOdIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T06:38:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "GSMArena.com",
+            "title": "OnePlus Ace 2V's launch date and design officially revealed - GSMArena.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmdzbWFyZW5hLmNvbS9vbmVwbHVzX2FjZV8ydl9sYXVuY2hfZGF0ZV9kZXNpZ25fY29sb3JzLW5ld3MtNTc3MTkucGhw0gFNaHR0cHM6Ly9tLmdzbWFyZW5hLmNvbS9vbmVwbHVzX2FjZV8ydl9sYXVuY2hfZGF0ZV9kZXNpZ25fY29sb3JzLWFtcC01NzcxOS5waHA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T05:52:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Sportskeeda",
+            "title": "How to fix corrupted textures in Minecraft Java - Sportskeeda",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnNwb3J0c2tlZWRhLmNvbS9taW5lY3JhZnQvaG93LWZpeC1jb3JydXB0ZWQtdGV4dHVyZXMtaW4tbWluZWNyYWZ0LWphdmHSAVZodHRwczovL3d3dy5zcG9ydHNrZWVkYS5jb20vYW1wL21pbmVjcmFmdC9ob3ctZml4LWNvcnJ1cHRlZC10ZXh0dXJlcy1pbi1taW5lY3JhZnQtamF2YQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T05:29:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Mint",
+            "title": "MWC 2023: MIUI 14 launched globally. Details on features, eligible devices, more | Mint - Mint",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5saXZlbWludC5jb20vdGVjaG5vbG9neS90ZWNoLW5ld3MvbXdjLTIwMjMtbWl1aS0xNC1sYXVuY2hlZC1nbG9iYWxseS1kZXRhaWxzLW9uLWZlYXR1cmVzLWVsaWdpYmxlLWRldmljZXMtbW9yZS0xMTY3NzU1NjkxMDk1Ny5odG1s0gGSAWh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS90ZWNobm9sb2d5L3RlY2gtbmV3cy9td2MtMjAyMy1taXVpLTE0LWxhdW5jaGVkLWdsb2JhbGx5LWRldGFpbHMtb24tZmVhdHVyZXMtZWxpZ2libGUtZGV2aWNlcy1tb3JlL2FtcC0xMTY3NzU1NjkxMDk1Ny5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T04:39:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "India TV News",
+            "title": "How hackers are using iPhone passcode to steal money and data? - India TV News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiuQFodHRwczovL3d3dy5pbmRpYXR2bmV3cy5jb20vdGVjaG5vbG9neS9uZXdzL2hvdy1oYWNrZXJzLWFyZS11c2luZy1pcGhvbmUtcGFzc2NvZGUtdG8tc3RlYWwtbW9uZXktYW5kLWRhdGEtaG93LWhhY2tlcnMtYXJlLXVzaW5nLWlwaG9uZS1wYXNzY29kZS10by1zdGVhbC1tb25leS1hbmQtZGF0YS0yMDIzLTAyLTI4LTg1MDg2NdIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T04:24:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "MySmartPrice",
+            "title": "Vivo V27 Pro Roundup: Expected Price In India, How To Watch Launch Event Online, Specifications, More - MySmartPrice",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3Lm15c21hcnRwcmljZS5jb20vZ2Vhci92aXZvLXYyNy1wcm8tcm91bmR1cC_SATtodHRwczovL3d3dy5teXNtYXJ0cHJpY2UuY29tL2dlYXIvdml2by12MjctcHJvLXJvdW5kdXAvP2FtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T04:19:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Sportskeeda",
+            "title": "5 best counters to Olaf toplane in League of Legends season 13 - Sportskeeda",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnNwb3J0c2tlZWRhLmNvbS9lc3BvcnRzLzUtYmVzdC1jb3VudGVycy1vbGFmLXRvcGxhbmUtbGVhZ3VlLWxlZ2VuZHMtc2Vhc29uLTEz0gFdaHR0cHM6Ly93d3cuc3BvcnRza2VlZGEuY29tL2FtcC9lc3BvcnRzLzUtYmVzdC1jb3VudGVycy1vbGFmLXRvcGxhbmUtbGVhZ3VlLWxlZ2VuZHMtc2Vhc29uLTEz?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T04:07:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Mint",
+            "title": "Garena Free Fire Max redeem codes February 28, 2023: Get weapons, diamonds, more | Mint - Mint",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5saXZlbWludC5jb20vdGVjaG5vbG9neS90ZWNoLW5ld3MvZ2FyZW5hLWZyZWUtZmlyZS1tYXgtcmVkZWVtLWNvZGVzLWZlYnJ1YXJ5LTI4LTIwMjMtZ2V0LXdlYXBvbnMtZGlhbW9uZHMtbW9yZS0xMTY3NzU1NjQ5ODI5My5odG1s0gGSAWh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS90ZWNobm9sb2d5L3RlY2gtbmV3cy9nYXJlbmEtZnJlZS1maXJlLW1heC1yZWRlZW0tY29kZXMtZmVicnVhcnktMjgtMjAyMy1nZXQtd2VhcG9ucy1kaWFtb25kcy1tb3JlL2FtcC0xMTY3NzU1NjQ5ODI5My5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T03:56:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "India Today",
+            "title": "Honor Magic 5 Pro first impressions: Beauty and the beast - India Today",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmluZGlhdG9kYXkuaW4vdGVjaG5vbG9neS9mZWF0dXJlcy9zdG9yeS9ob25vci1tYWdpYy01LXByby1maXJzdC1pbXByZXNzaW9ucy1iZWF1dHktYW5kLXRoZS1iZWFzdC0yMzQwNTA5LTIwMjMtMDItMjjSAYMBaHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9hbXAvdGVjaG5vbG9neS9mZWF0dXJlcy9zdG9yeS9ob25vci1tYWdpYy01LXByby1maXJzdC1pbXByZXNzaW9ucy1iZWF1dHktYW5kLXRoZS1iZWFzdC0yMzQwNTA5LTIwMjMtMDItMjg?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T03:34:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Dexerto",
+            "title": "Lightfall opening cutscene leaked early in major Destiny 2 datamine - Dexerto",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmRleGVydG8uY29tL2Rlc3RpbnkvbGlnaHRmYWxsLW9wZW5pbmctY3V0c2NlbmUtbGVha2VkLWVhcmx5LWluLW1ham9yLWRlc3RpbnktMi1kYXRhbWluZS0yMDczMTI0L9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T01:48:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Sportskeeda",
+            "title": "Guide to Xayah in League of Legends season 13: Runes, item builds, and more - Sportskeeda",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnNwb3J0c2tlZWRhLmNvbS9lc3BvcnRzL2d1aWRlLXhheWFoLWxlYWd1ZS1sZWdlbmRzLXNlYXNvbi0xMy1ydW5lcy1pdGVtLWJ1aWxkc9IBXmh0dHBzOi8vd3d3LnNwb3J0c2tlZWRhLmNvbS9hbXAvZXNwb3J0cy9ndWlkZS14YXlhaC1sZWFndWUtbGVnZW5kcy1zZWFzb24tMTMtcnVuZXMtaXRlbS1idWlsZHM?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-28T00:28:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "GSMArena.com",
+            "title": "The iPhone SE isn't dead anymore, to be resurrected as iPhone 14 clone for next year - GSMArena.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5nc21hcmVuYS5jb20vaXBob25lX3NlX2lzX2JhY2tfZnJvbV90aGVfZGVhZF9uZXh0X21vZGVsX3RvX3Jlc2VtYmxlX3RoZV9pcGhvbmVfMTRfYm9hc3RfYW5fb2xlZF9zY3JlZW4tbmV3cy01NzcxNy5waHDSAX5odHRwczovL20uZ3NtYXJlbmEuY29tL2lwaG9uZV9zZV9pc19iYWNrX2Zyb21fdGhlX2RlYWRfbmV4dF9tb2RlbF90b19yZXNlbWJsZV90aGVfaXBob25lXzE0X2JvYXN0X2FuX29sZWRfc2NyZWVuLWFtcC01NzcxNy5waHA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T22:59:46Z",
+            "content": null
+        }
+    ]
+}
