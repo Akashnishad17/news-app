@@ -70,14 +70,19 @@ export default class News extends Component {
     }
 
     fetchData = async() => {
+        this.props.setProgress(10);
+
         // const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=2e6ee77231d4402e94b1adbc174d9c6c&page=${this.state.page}&pageSize=${this.props.pageSize}`;
         // const result = await fetch(url);
+        // this.props.setProgress(30);
         // const parsedResult = await result.json();
+        // this.props.setProgress(70);
         // this.setState({
         //     articles: this.state.articles.concat(parsedResult.articles),
         //     totalResults: parsedResult.totalResults,
         //     loading: false
         // });
+        // this.props.setProgress(100);
 
         setTimeout(() => {
             this.setState({
@@ -86,7 +91,11 @@ export default class News extends Component {
                 totalResults: this.data.totalResults,
                 loading: false
             });
+            this.props.setProgress(100);
         }, 1500);
+        setTimeout(() => {
+            this.props.setProgress(30);
+        }, 500);
     }
 
     fetehMoreData = () => {
