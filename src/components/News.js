@@ -97,7 +97,11 @@ export default class News extends Component {
         // });
 
         setTimeout(() => {
-            this.setState({articles: this.data.articles.slice((this.state.page - 1) * this.props.pageSize, this.state.page * this.props.pageSize), loading: false, totalPages: this.data.totalPages});
+            this.setState({
+                articles: this.data.articles.slice(
+                    (this.state.page - 1) * this.props.pageSize, this.state.page * this.props.pageSize), 
+                loading: false, totalPages: 
+                this.data.totalPages});
         }, 1000);
     }
 
