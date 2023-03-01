@@ -78,7 +78,11 @@ export default class News extends Component {
             loading: true,
             page: 1
         }
+
+        document.title = `NewsHub - ${this.capitalize(props.category)}`;
     }
+
+    capitalize = (word) => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
 
     componentDidMount(){
         this.fetchData();
@@ -118,7 +122,7 @@ export default class News extends Component {
     render() {
         return (
             <div className="container my-3">
-                <h1 className="text-center">NewsHub - Headlines</h1>
+                <h1 className="text-center">NewsHub - Top {this.capitalize(this.props.category)} Headlines</h1>
                 {this.state.loading && <Spinner />}
                 <div className="row">
                     {this.state.articles.map((el) => {
