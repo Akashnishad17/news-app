@@ -6,15 +6,15 @@ import InfiniteScroll from 'react-infinite-scroll-component';
 
 const News = (props) => {
     const [articles, setArticles] = useState([]);
-    const [page, setPage] = useState(1);
+    const [page, setPage] = useState(0);
     const [totalResults, setTotalResults] = useState(0);
     const [loading, setLoading] = useState(true);
     const global = false;
-    //document.title = `NewsHub - ${capitalize(props.category)}`;
 
     const capitalize = (word) => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
 
     useEffect(() => {
+        document.title = `NewsHub - ${capitalize(props.category)}`
         fetchData();  
     }, [])
 
@@ -22,7 +22,7 @@ const News = (props) => {
         props.setProgress(10);
 
         if(global) {
-            const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
+            const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page + 1}&pageSize=${props.pageSize}`;
             const result = await fetch(url);
             props.setProgress(30);
             const parsedResult = await result.json();
@@ -30,12 +30,14 @@ const News = (props) => {
             setArticles(articles.concat(parsedResult.articles));
             setTotalResults(parsedResult.totalResults);
             setLoading(false);
+            setPage(page + 1);
             props.setProgress(100);
         } else {
             setTimeout(() => {
-                setArticles(articles.concat(props.data.articles.slice((page - 1) * props.pageSize, page * props.pageSize)));
+                setArticles(articles.concat(props.data.articles.slice(page * props.pageSize, (page + 1) * props.pageSize)));
                 setTotalResults(props.data.totalResults);
                 setLoading(false);
+                setPage(page + 1);
                 props.setProgress(100);
             }, 1500);
             setTimeout(() => {
@@ -44,18 +46,13 @@ const News = (props) => {
         }
     }
 
-    const fetehMoreData = () => {
-        setPage({page: page + 1});
-        fetchData();
-    }
-
     return (
         <>
-            <h1 className="text-center my-3">NewsHub - Top {capitalize(props.category)} Headlines</h1>
+            <h1 className="text-center" style={{margin: '35px 0', marginTop: '90px'}}>NewsHub - Top {capitalize(props.category)} Headlines</h1>
             {loading && <Spinner />}
             <InfiniteScroll
             dataLength={articles.length}
-            next={fetehMoreData}
+            next={fetchData}
             hasMore={articles.length !== totalResults}
             loader={<Spinner />}>
                 <div className="container">
